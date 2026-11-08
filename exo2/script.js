@@ -1,10 +1,6 @@
 "use strict"; // Mode strict, signale les variables non déclarées (slide 52)
 
-/* ============================================================
-   TP4 - JavaScript - Exercice 2
-   Tableau, objet et tableau d'objets.
-   Seule sortie autorisée : console.log() (slide 34)
-   ============================================================ */
+
 
 // f1 : affiche les éléments d'un tableau
 function f1() { // Déclaration d'une fonction (slide 46)
