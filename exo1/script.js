@@ -1,11 +1,5 @@
 "use strict"; // Mode strict, signale les variables non déclarées (slide 52)
 
-/* ============================================================
-   TP4 - JavaScript - Exercice 1
-   Chaque bouton appelle une fonction (f1 à f6).
-   Seule sortie autorisée : console.log() (slide 34)
-   ============================================================ */
-
 // Déclaration de constantes avec const (slides 38 et 52)
 const nom = "John";     // Type primitif String (slide 38)
 const prenom = "Doe";   // Type primitif String (slide 38)
