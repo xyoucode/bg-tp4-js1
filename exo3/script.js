@@ -1,11 +1,5 @@
 "use strict"; // Mode strict, signale les variables non déclarées (slide 52)
 
-/* ============================================================
-   TP4 - JavaScript - Exercice 3
-   Exactement 2 fonctions : A (appelle B) et B (float -> booléen).
-   Seule sortie autorisée : console.log() (slide 34)
-   ============================================================ */
-
 // Données Students : tableau d'objets (slide 41)
 // Format de chaque ligne : (id, nom, prenom, moyenne, autre)
 const Students = [
